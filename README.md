@@ -1,7 +1,5 @@
 # main-repo
 
-Welcome to **main-repo**! This repository is the starting point for the project.
-
 ## Overview
 
 This project is in its early stages. More details will be added as development progresses.
